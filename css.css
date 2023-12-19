@@ -1,0 +1,59 @@
+ .page {
+        font-size: 25px;
+        color: white;
+        background-color: #17a117;
+        max-width: auto;;
+        margin: 0 auto;
+        height: 150px;
+        text-align: center;
+        vertical-align: middle;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+ }
+
+ .flex-item {
+    margin: 5px;
+    top:10px;
+    border: #424242;
+ }
+
+ .flex-container {
+    display: flex;
+    background-color: rgb(73, 73, 73);
+    justify-content: flex-start;
+    top: px;
+    left: px;
+    color: white;
+ }
+
+ .Project {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    text-align: center;
+    
+   
+ }
+ .A {
+    background-color: red;
+    margin: 0 auto;
+    font-weight: bold;
+ }
+ .B {
+    background-color: yellow;
+    margin: 0 auto;
+ }
+ .C {
+    background-color: pink;
+    margin: 0 auto;
+ }
+
+ img {
+    text-align: center;
+ }
+
+ .icon {
+   border-style: double;
+   text-align: center;
+}
